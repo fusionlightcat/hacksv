@@ -1,5 +1,5 @@
 <?php
-print "\e[39m\e[32mWelcome!\n\e[36mCreating new proc... Please wait!";
+print "\e[39m\e[32mWelcome to the Github Version of Hacksave!!!\n\e[36mCreating new proc... Please wait!";
 
 sleep(1.1);
 
